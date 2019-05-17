@@ -1,1 +1,1 @@
-const t = 'pkg1 v1'
+const t = 'pkg1 v2'
